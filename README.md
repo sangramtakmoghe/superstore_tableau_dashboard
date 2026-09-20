@@ -84,12 +84,12 @@ The dashboard allows users to explore:
 ## 📂 Repository Contents
 
 ```text
-superstore-tableau-dashboard/
+superstore_analysis-dashboard/
 │
 ├── README.md
 │
 ├── dashboard/
-│   └── Superstore_Analytics_Dashboard.twbx
+│   └── superstore_analysis.twbx
 │
 └── screenshots/
     ├── 01-sales-dashboard.png
